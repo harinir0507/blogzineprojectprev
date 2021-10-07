@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.theme {
+    display: flex;
+    cursor: pointer;
+    width: px;
+    height: 20px;
+    padding: 10px;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.line {
+    margin-top: 10px;
+}
+
+blueviolet {
+    background: blueviolet;
+    color: white;
+    border: 1px solid black;
+    padding: 2px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 150px;
+}
+
+.grap {
+    display: flex;
+    cursor: pointer;
+    width: px;
+    height: 25px;
+    padding: 2px;
+    justify-content: space-around;
+    background: blue;
+    color: white;
+}
+
+.btn-black {
+    background: black;
+    color: white;
+    padding: 3px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 80px;
+}
+
+.info {
+    display: flex;
+    cursor: pointer;
+    width: px;
+    height: 20px;
+    padding: 20px;
+    justify-content: space-left;
+    margin-left: 150px;
+    margin-top: 5px;
+}
+
+.lineinfo {
+    margin-left: 100px;
+}
+
+.blogzine {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    padding: 20px;
+}
+
+.btn-red {
+    background: red;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    width: 80px;
+}
+
+.trending {
+    cursor: pointer;
+    display: flex;
+    background: aliceblue;
+    width: 1160px;
+    height: 35px;
+    margin-left: 100px;
+}
+
+.btn-blue {
+    background: blue;
+    color: white;
+    height: 25px;
+    width: 80px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: space-around;
+    background: black;
+    color: white;
+    margin-top: 30px;
+}
+
+.btn-blues {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.life {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 60px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.secondlife {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.btn-lifestyle {
+    background-color: red;
+    color: aliceblue;
+    width: 60px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+.btn-technology {
+    background-color: orange;
+    color: aliceblue;
+    width: 80px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+.btn-business {
+    background-color: green;
+    color: aliceblue;
+    width: 60px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+.btn-sports {
+    background-color: blue;
+    color: aliceblue;
+    width: 60px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+.btn-travel {
+    background-color: red;
+    color: aliceblue;
+    width: 60px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+.btn-gadgets {
+    background-color: green;
+    color: aliceblue;
+    width: 60px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+.btn-marketing {
+    background-color: blue;
+    color: aliceblue;
+    width: 80px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+.btn-photography {
+    background-color: red;
+    color: aliceblue;
+    width: 90px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+.tecvel {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+}
+
+.highlights {
+    margin-left: 70px;
+}
+
+.gadport {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+}
+
+.markphy {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.update {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    height: 200px;
+    padding: 180px;
+}
+
+.hottopics {
+    background-color: black;
+    color: white;
+    justify-content: center;
+}
+
+.btn-job {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    width: 34px;
+}
